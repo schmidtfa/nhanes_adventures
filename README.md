@@ -7,4 +7,4 @@ The utils folder contains a set of functions to download and merge datasets from
 ## Mediation Analysis Tinnitus 
 This notebook contains code to calculate a bayesian mediation analysis to predict tinnitus. This extends our previous findings [here](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-02998-1) establishing ageing independent from hearing ability as risk factor for tinnitus.
 
-![Alt text](../results/mediation_tinnitus.png)
+![Alt text](https://github.com/schmidtfa/nhanes_adventures/tree/main/results/mediation_tinnitus.png)
